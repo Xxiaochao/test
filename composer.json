@@ -1,0 +1,20 @@
+{
+    "name": "xxiaochao/test",
+    "description": "lr",
+    "authors": [
+        {
+            "name": "Xxiaochao",
+            "email": "844836719@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      
+        "psr-4": {
+           
+            "Hexin\\Web\\": "src/"
+
+        }
+    }
+}
